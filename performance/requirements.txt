@@ -1,0 +1,7 @@
+cassandra-driver    
+flask
+pandas
+memory-profiler
+psutil
+python-dateutil
+requests

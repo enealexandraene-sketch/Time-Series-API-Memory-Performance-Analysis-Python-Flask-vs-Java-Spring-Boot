@@ -1,0 +1,19 @@
+# Nested repository metadata
+performance/.git/
+performance_java/.git/
+performance/.git-nested-backup/
+performance_java/.git-nested-backup/
+
+# Python environments and generated files
+performance/myfirstproject/
+performance/__pycache__/
+performance/**/*.pyc
+
+# Java build output
+performance_java/target/
+
+# Local/editor and operating-system files
+**/.DS_Store
+**/.idea/
+**/.vscode/
+*.log
